@@ -1,80 +1,33 @@
-<h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
-</h1>
+## S02 - Lógica I - Variáveis, tipos, operadores e funções
 
-# Tema da Aula
+#### Tópicos:
+- Introdução e Alinhamento
+- Tipos de Valores e Variáveis
+- Inputs
+- Operadores  
+- Formatação
+- Funções
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+### Exercícios pós-aula:
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
-
-### Resumo
-O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
-
-## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
-### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
-   
-### Tema3
-1. [Tópico 4](#topico4)
-
-### Tema1 
-
-#### Topico1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
-
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
-
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
-
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
-
-***
-### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
-
-### Material da aula 
-
-### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+#### Exercícios Básicos 
+https://wiki.python.org.br/EstruturaSequencial 
+Exercícios para entregar: 16 e 17
 
 
-<p align="center">
-Desenvolvido com :purple_heart:  
-</p>
+#### Exercícios de Funções
+https://wiki.python.org.br/ExerciciosFuncoes
+Exercício para entregar: 3
+Se desejarem praticat mais, pular os exercícios 1, 2, 7, 10, 13 e 14, pois exigem conhecimentos que veremos nas próximas aulas. Não é necessário fazer os loops pedidos nos demais exercícios. 
 
+Sugestão extra: www.beecrowd.com.br/
+*É necessário completar o perfil com dados básicos e de contato para poder usar a ferramenta. Dica: informe que sua lingua desejada é o português em perfil->configurações*
+Nessa plataforma, existem DIVERSOS exercícios que são avaliados automaticamente. Procure problemas->iniciante e divirta-se! Após escrever a solução, clique em submeter e aguarde a avaliação automatica para saber se seu código cumpre o que é pedido no enunciado. Se a resposta for "Accepted", seu código foi aceito. Senão, tente novamente!
+
+#### Exercícios da aula
+Exercícios feitos em aula estão na pasta "exercicios-sala"
+
+# Material extra sobre funções 
+Vídeo do Professor Gustavo Guanabara sobre funções 
+https://www.youtube.com/watch?v=ezfr9d7wd_k
+Lembrete importante: nós ainda veremos mais conteúdo sobre funções na próxima aula. Então sem desespero se algo parecer muito novo, combinado? <3
