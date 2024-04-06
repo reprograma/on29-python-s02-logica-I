@@ -18,7 +18,7 @@ Exercícios para entregar: 16 e 17
 #### Exercícios de Funções
 https://wiki.python.org.br/ExerciciosFuncoes
 Exercício para entregar: 3
-Se desejarem praticat mais, pular os exercícios 1, 2, 7, 10, 13 e 14, pois exigem conhecimentos que veremos nas próximas aulas. Não é necessário fazer os loops pedidos nos demais exercícios. 
+Se desejarem praticar mais, pular os exercícios 1, 2, 7, 10, 13 e 14, pois exigem conhecimentos que veremos nas próximas aulas. Não é necessário fazer os loops pedidos nos demais exercícios. 
 
 Sugestão extra: www.beecrowd.com.br/
 *É necessário completar o perfil com dados básicos e de contato para poder usar a ferramenta. Dica: informe que sua lingua desejada é o português em perfil->configurações*
